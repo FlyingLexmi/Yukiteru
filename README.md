@@ -6,13 +6,13 @@ Yukiteru is a bot created to automate various routine tasks on different anarchy
 
 Here are the current commands supported by Yukiteru:
 
-`-itemCounter`: Tracks and reports the number of items in the stash on Discord.
-`-kill`: Kills the bot.
-`-goto x,y,z`: Moves the bot to specified coordinates.
-`-gotoSpawn`: Sends the bot to the spawn point.
-`-stop`: Stops the bot's current tasks.
-`-setSpawnPointCommand`: Sets the spawn point using the /spawnpoint command (works only on private servers).
-`-stone`: Automates farming cobblestone in a cobblestone farm.
+-`-itemCounter`: Tracks and reports the number of items in the stash on Discord.
+-`-kill`: Kills the bot.
+-`-goto x,y,z`: Moves the bot to specified coordinates.
+-`-gotoSpawn`: Sends the bot to the spawn point.
+-`-stop`: Stops the bot's current tasks.
+-`-setSpawnPointCommand`: Sets the spawn point using the /spawnpoint command (works only on private servers).
+-`-stone`: Automates farming cobblestone in a cobblestone farm.
 
 ## Links
 
