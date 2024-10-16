@@ -13,10 +13,15 @@ Here are the current commands supported by Yukiteru:
 - `-stop`: Stops the bot's current tasks.  
 - `-setSpawnPointCommand`: Sets the spawn point using the /spawnpoint command (works only on private servers).  
 - `-stone`: Automates farming cobblestone in a cobblestone farm.
+- `-bookEnchant`: Book enchanting
+- `-fishing`: Fishing
+- `-logs`: See bot logs
+- `playerFollow`: player Follow
+  
 
 ## Links
 
-You can find more information, join our community, or watch tutorials through the following links:
+You can find more information, join our community, or watch tutorials through the following links, if you have any ideas how I can improve bot text me in telegram:
 
 - [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/your-channel-link)  
 - [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/your-telegram-link)  
